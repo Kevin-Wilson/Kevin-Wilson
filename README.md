@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kevin-Wilson
-- 👀 I’m interested in Software Engineering, AI an Cyber Security
+- 👀 I’m interested in Software Engineering, AI and Cyber Security
 - 🌱 I’m currently in undergraduate study for Computer Science
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I like to draw in my free time
