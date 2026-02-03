@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kevin-Wilson
-- 👀 I’m interested in Software Engineering, AI and Cyber Security
-- 🌱 I’m currently in undergraduate study for Computer Science
+- 👀 I’m interested in Software Engineering, AI, Data Science and Cyber Security
+- 🌱 I’m currently in undergraduate study for Computer Science (MSci)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I like to draw in my free time
 
